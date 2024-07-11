@@ -1,7 +1,7 @@
 
 **Cloning an React project and running locally**
 
-### `git clone https://github.com/nithingooud/Hema-portfolio`
+### `git clone https://github.com/userdied1394/Hema-portfolio`
 ### `cd Hema-portfolio`
 
 **Look at the files and folder of the project**
